@@ -8,7 +8,7 @@
 
 DOCKERFILE ?= $(CURDIR)/Dockerfile
 
-REGISTRY ?= nvidia
+REGISTRY ?= bgbiao
 TAG      ?= latest
 TARGET   ?= dcgm-exporter
 DCGM     ?= 1.7.1
